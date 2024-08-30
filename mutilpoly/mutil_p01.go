@@ -36,4 +36,5 @@ func main() {
 	var f1 Num = 8
 	var f2 oop1.NumInterface1 = f1
 	var f3 oop2.NumInterface2 = f2
+
 }
